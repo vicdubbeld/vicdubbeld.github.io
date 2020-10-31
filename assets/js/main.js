@@ -154,6 +154,4 @@
       $(this).removeClass("inactive");
     },
   });
-
-  $(".carousel").carousel();
 })(jQuery);
