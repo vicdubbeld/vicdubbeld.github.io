@@ -2,4 +2,4 @@
 
 Check it out -> https://www.victordubbeld.com
 
-<img src="images/site.png">
+<img src="images/site-preview.png">
