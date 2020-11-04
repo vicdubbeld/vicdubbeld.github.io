@@ -1,5 +1,5 @@
-# Welcome to my Portfolio Site!
+# My Portfolio Site
 
-Click to see it -> https://vicdubbeld.github.io
-<br>
-This will eventually replace my current portfolio site at https://www.victordubbeld.com
+Check it out -> https://www.victordubbeld.com
+
+<img src="images/site-preview.png">
