@@ -148,6 +148,4 @@
       $(this).removeClass("inactive");
     },
   });
-
-
 })(jQuery);
