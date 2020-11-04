@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/vicdubbeld/victordubbeld.github.io#readme",
   "dependencies": {
+    "core-js": "^3.6.5",
     "typewriter-effect": "^2.13.1"
   }
 }
