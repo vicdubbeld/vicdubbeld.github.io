@@ -1,0 +1,22 @@
+{
+  "name": "victordubbeld.github.io",
+  "version": "1.0.0",
+  "description": "Check it out -> https://www.victordubbeld.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vicdubbeld/victordubbeld.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vicdubbeld/victordubbeld.github.io/issues"
+  },
+  "homepage": "https://github.com/vicdubbeld/victordubbeld.github.io#readme",
+  "dependencies": {
+    "typewriter-effect": "^2.13.1"
+  }
+}
