@@ -148,5 +148,26 @@
       $(this).removeClass("inactive");
     },
   });
+  // // Movement animation to happen
+  // const inner = document.querySelector(".inner");
+  // // Item to animate
+  // const title = document.querySelector(".title");
 
+  // // Moving animation Event
+  // inner.addEventListener("mousemove", (e) => {
+  //   let xAxis = (window.innerWidth / 2 - e.pageX) / 25;
+  //   let yAxis = (window.innerHeight / 2 - e.pageY) / 25;
+  //   inner.style.transform = `rotateY(${xAxis}deg) rotateX(${yAxis}deg)`;
+  // });
+
+  // // Animate in
+  // inner.addEventListener("mouseenter", (e) => {
+  //   // Popout
+  //   title.style.transform = "translateZ(200px) rotateZ(-45deg)";
+  // });
+
+  // // Animate out
+  // inner.addEventListener("mouseleave", (e) => {
+  //   title.style.transform = "translateZ(0px) rotateZ(0deg)";
+  // });
 })(jQuery);
