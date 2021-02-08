@@ -18,6 +18,7 @@
   "homepage": "https://github.com/vicdubbeld/victordubbeld.github.io#readme",
   "dependencies": {
     "core-js": "^3.6.5",
+    "simplecast-api-client": "^2.0.0",
     "typewriter-effect": "^2.13.1"
   }
 }
