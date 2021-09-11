@@ -48,7 +48,10 @@ table {
 body {
 	-webkit-text-size-adjust: none;
 }
-
+img{
+	width:120px;
+	height:120px;
+}
 mark {
 	background-color: transparent;
 	color: inherit;
@@ -2543,7 +2546,7 @@ input, select, textarea {
 				}
 
 				.wrapper.style2-alt .icon.major:before {
-					color: #3e4094;
+					color: #953d75;
 				}
 
 				.wrapper.style3 .icon.major:before {
@@ -2783,9 +2786,14 @@ input, select, textarea {
 
 /* Contact */
 
+.contact{
+	padding-left: 100px;
+}
+
 	ul.contact {
 		list-style: none;
-		padding: 0;
+		padding: 120px;
+		align-items: center;
 	}
 
 		ul.contact > li {
