@@ -1849,6 +1849,9 @@ input, select, textarea {
 		text-transform: uppercase;
 		white-space: nowrap;
 	}
+	#patreon {
+		background-color: #FF6871;
+	}
 
 		input[type="submit"]:after,
 		input[type="reset"]:after,
