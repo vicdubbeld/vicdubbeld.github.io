@@ -1852,6 +1852,18 @@ input, select, textarea {
 	#patreon {
 		background-color: #FF6871;
 	}
+	#apple {
+		background-color:#F32239;
+	}
+	#spotify {
+		background-color:#1DB954;
+	}
+	#youtube {
+		background-color: #FF0000;
+	}
+	#simplecast {
+		background-color: black;
+	}
 
 		input[type="submit"]:after,
 		input[type="reset"]:after,
