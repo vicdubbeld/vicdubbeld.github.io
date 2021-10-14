@@ -48,10 +48,7 @@ table {
 body {
 	-webkit-text-size-adjust: none;
 }
-img{
-	width:120px;
-	height:120px;
-}
+
 mark {
 	background-color: transparent;
 	color: inherit;
@@ -1849,21 +1846,6 @@ input, select, textarea {
 		text-transform: uppercase;
 		white-space: nowrap;
 	}
-	#patreon {
-		background-color: #FF6871;
-	}
-	#apple {
-		background-color:#F32239;
-	}
-	#spotify {
-		background-color:#1DB954;
-	}
-	#youtube {
-		background-color: #FF0000;
-	}
-	#simplecast {
-		background-color: black;
-	}
 
 		input[type="submit"]:after,
 		input[type="reset"]:after,
@@ -2561,7 +2543,7 @@ input, select, textarea {
 				}
 
 				.wrapper.style2-alt .icon.major:before {
-					color: #953d75;
+					color: #3e4094;
 				}
 
 				.wrapper.style3 .icon.major:before {
@@ -2801,14 +2783,9 @@ input, select, textarea {
 
 /* Contact */
 
-.contact{
-	padding-left: 100px;
-}
-
 	ul.contact {
 		list-style: none;
-		padding: 120px;
-		align-items: center;
+		padding: 0;
 	}
 
 		ul.contact > li {
