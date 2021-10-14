@@ -272,6 +272,11 @@ input, select, textarea {
 		top: -0.5em;
 	}
 
+	#profile-pic {
+		width: 150px;
+		height: 150px;
+	}
+
 	blockquote {
 		border-left: solid 4px rgba(255, 255, 255, 0.15);
 		font-style: italic;
